@@ -8,3 +8,6 @@ I have been tasked to refactor the code of this website to bring it more in line
 3. I consolidated multiple classes in the HTML file. This allowed me to combine multiple CSS lines of code together to create an easier to read/manage CSS file.
 
 4. I cleaned up the code, allowing it to be more readable and easier to manage in the future.
+
+Upon completing these tasks, i have successfully refactored the existing code so that it is more streamlined. Below is a link of the completed webpage. Visually, there are no changes. However, under the hood, it is much more efficient. It appeared that there was an issue with the navigation bar as well, in which it would not properly link to the associated portion of the webpage. This has been fixed.
+
