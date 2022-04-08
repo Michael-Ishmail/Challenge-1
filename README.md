@@ -11,3 +11,5 @@ I have been tasked to refactor the code of this website to bring it more in line
 
 Upon completing these tasks, i have successfully refactored the existing code so that it is more streamlined. Below is a link of the completed webpage. Visually, there are no changes. However, under the hood, it is much more efficient. It appeared that there was an issue with the navigation bar as well, in which it would not properly link to the associated portion of the webpage. This has been fixed.
 
+https://michael-ishmail.github.io/Challenge-1/
+
